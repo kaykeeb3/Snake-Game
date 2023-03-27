@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="Snake Gamer web" src="snake.png" width="100%" height="70%">
+  <img alt="Snake Gamer" src="img/snake.png" width="100%" height="70%">
 </p>
 
 ## 🚀 Tecnologias
